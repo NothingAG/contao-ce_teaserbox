@@ -1,3 +1,6 @@
+# [UNMAINTAINED]
+This project is not maintained anymore.
+
 # CONTAO CONTENT ELEMENT: TEASER BOX
 Adds a new content element in Contao to define a teaser box which links to another page. The element offers the following fields: Headline, text (teaser of the linked page), link address, image.
 
